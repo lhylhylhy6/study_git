@@ -3,3 +3,4 @@ gitttt nbb
 change no.2
 change no.3 hehh
 Git has a mutable index called stage.
+Git tracks changes.
